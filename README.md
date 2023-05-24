@@ -31,5 +31,3 @@ I'm always excited to connect with fellow developers, students, and anyone who s
 - :e-mail: Email: [xihes2@illinois.edu](mailto:xihes2@illinois.edu)
 
 Let's learn, create, and grow together! :rocket: :tada:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealMan-Shao)](https://github.com/anuraghazra/github-readme-stats)
