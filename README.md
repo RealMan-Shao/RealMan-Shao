@@ -1,4 +1,4 @@
-# Ivan's GitHub Homepage :computer: :mortar_board:
+# Ivan's GitHub Homepage
 
 ## Hey there! :wave:
 
