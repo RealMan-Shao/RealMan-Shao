@@ -2,7 +2,7 @@
 
 ## Hey there! :wave:
 
-Welcome to my GitHub! I'm Ivan, a sophomore student at the University of Illinois Urbana-Champaign (UIUC), majoring in Electrical Engineering. :man_student:
+Welcome to my GitHub! I'm Ivan, a junior student at the University of Illinois Urbana-Champaign (UIUC), majoring in Electrical Engineering. :man_student:
 
 I'm passionate about exploring the fascinating world of technology and coding. Here, you'll find some of my projects, experiments, and contributions in various domains. Feel free to explore and provide any feedback or suggestions you may have!
 
