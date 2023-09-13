@@ -9,7 +9,7 @@ I'm passionate about exploring the fascinating world of technology and coding. H
 ## About Me
 
 - :man_student: Studying Electrical Engineering at UIUC.
-- :books: Currently a sophomore.
+- :books: Currently a junior.
 - :computer: Enthusiastic about coding and technology.
 - :bulb: Constantly learning and expanding my skills.
 - :rocket: Eager to contribute to exciting projects.
