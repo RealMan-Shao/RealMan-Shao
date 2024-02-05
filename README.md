@@ -24,10 +24,4 @@ I have been working on a variety of projects to enhance my skills and gain pract
 
 I have also been actively contributing to open-source projects and collaborating with fellow developers. Check out my repositories to see what I've been up to!
 
-## Get in Touch :mailbox_with_mail:
-
-I'm always excited to connect with fellow developers, students, and anyone who shares similar interests. Feel free to reach out to me through the following channels:
-
-- :e-mail: Email: [xihes2@illinois.edu](mailto:xihes2@illinois.edu)
-
 Let's learn, create, and grow together! :rocket: :tada:
