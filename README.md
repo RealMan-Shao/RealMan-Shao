@@ -21,7 +21,3 @@ I have been working on a variety of projects to enhance my skills and gain pract
 - :electric_plug: Circuit Design and Analysis.
 - :robot: Robotics and Automation.
 - :zap: Embedded Systems and Microcontrollers.
-
-I have also been actively contributing to open-source projects and collaborating with fellow developers. Check out my repositories to see what I've been up to!
-
-Let's learn, create, and grow together! :rocket: :tada:
